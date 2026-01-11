@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "code": "PRD001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 599,
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300",
+    "description": "Ergonomic wireless mouse with long battery life",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "code": "PRD002",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 23,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300",
+    "description": "RGB mechanical keyboard with blue switches",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 3,
+    "code": "PRD003",
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 890,
+    "stock": 67,
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=300",
+    "description": "7-in-1 USB-C hub with multiple ports",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 4,
+    "code": "PRD004",
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 749,
+    "stock": 34,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300",
+    "description": "Adjustable aluminum laptop stand",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 5,
+    "code": "PRD005",
+    "name": "Webcam HD",
+    "category": "Electronics",
+    "price": 1599,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1589003600553-c0f30a711f0e?w=300",
+    "description": "1080p HD webcam with auto-focus",
+    "createdAt": "2024-01-19"
+  }
+]
