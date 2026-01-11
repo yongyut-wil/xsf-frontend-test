@@ -42,7 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <!-- Replace with your actual image files -->
-  <img src="/screenshots/home.png" alt="Home Page" width="400" />
-  <img src="/screenshots/upload.png" alt="Upload Page" width="400" />
-  <img src="/screenshots/product.png" alt="Product Page" width="400" />
+  <img src="public/screenshots/home.png" alt="Home Page" width="400" />
+  <img src="public/screenshots/upload.png" alt="Upload Page" width="400" />
+  <img src="public/screenshots/product.png" alt="Product Page" width="400" />
 </div>
